@@ -1,5 +1,7 @@
 # Homework 1: Tool Setup
 
+*This is the public posting of the assignment. See Piazza for the invite link to make your submission to the class repository.*
+
 **Due:** September 3, 2019 *before* 9:30am
 
 The goal of this week's assignment is to get you set up for the rest of the semester.  You'll explore Git (and GitHub), R (and RStudio), Tableau, and Observable with Vega-Lite.
