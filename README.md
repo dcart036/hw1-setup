@@ -1,6 +1,6 @@
 # Homework 1: Tool Setup
 
-*This is the public posting of the assignment. See Piazza for the invite link to make your submission to the class repository.*
+*This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization.*
 
 **Due:** September 3, 2019 *before* 9:30am
 
